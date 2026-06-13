@@ -1,7 +1,11 @@
 while(alive){
+
     code();
+    
     regret();
+    
 }
+
 sudo make me a sandwich
 <!---
 leethongs/leethongs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
